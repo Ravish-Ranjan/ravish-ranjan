@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [ravish-ranjan.github.io](ravish-ranjan.github.io)
 
-- 📫 How to reach me **ravishranjan4005@gmail.com**
+- 📫 How to reach me **ravishranjan2003@gmail.com**
 
 - ⚡ Fun fact **I really like movies and tech behind them**
 
