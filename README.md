@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Socket.io<br>👨‍💻 All of my projects are available at www.ravishdev.org<br>📫 How to reach me ravishranjan2003@gmail.com<br>⚡ Fun fact I really like movies and tech behind them
+🌱 I’m currently learning NextJS<br>👨‍💻 All of my projects are available at www.ravishdev.org<br>📫 How to reach me contact@ravishdev.org<br>⚡ Fun fact I really like movies and tech behind them
 
 
 ## 🌐 Socials:
