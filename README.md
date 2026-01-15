@@ -3,14 +3,10 @@
 ### An experienced web developer
 
 - 🌱 I'm currently learning **I’m currently learning NextJS**
-
 - 🤝 I'm looking for help with **career**
-
-- 📫 How to reach me **contact@ravishdev.org**
-
+- 📫 How to reach me **[contact@ravishdev.org](mailto:contact@ravishdev.org)**
 - ⚡ Fun fact **I really like movies and tech behind them**
-
-- 👨‍💻 All of my projects are available at **[https://www.ravishdev.org](www.ravishdev.org)**
+- 👨‍💻 All of my projects are available at **[www.ravishdev.org](https://www.ravishdev.org)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
